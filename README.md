@@ -14,5 +14,5 @@ I’m a cybersecurity enthusiast and entrepreneur pursuing a Master’s in Cyber
 - **ELEVATE Client Tracker**: Built a Python tool for tracking fitness progress. [Details](projects/elevate-personal-training/)
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-profile)
+[LinkedIn](https://linkedin.com/in/nylandones) | [GitHub](https://github.com/nyldones)
 
